@@ -1,0 +1,11 @@
+[project]
+name = "kaggle"
+dependencies = [
+  "kaggle",
+  "pandas",
+  "numpy",
+  "matplotlib",
+  "jupyterlab",
+  "scikit-learn",
+  "seaborn"
+]
